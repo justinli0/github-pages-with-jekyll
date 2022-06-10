@@ -1,5 +1,7 @@
-Welcome: My name is Justin Li
-
+---
+title: "WELCOME: My name is Justin Li"
+date: 2022-06-10
+---
 As of 2022, I am a Sophomore 
 
 Picture:
