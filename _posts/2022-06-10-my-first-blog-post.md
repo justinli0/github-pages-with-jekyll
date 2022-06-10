@@ -5,8 +5,7 @@ date: 2022-06-10
 As of 2022, I am a Sophomore 
 
 Picture:
-https://user-images.githubusercontent.com/107124225/173158852-99f2363d-1c71-4dd2-ae96-1676d84298fa.jpg
-
+![image](https://user-images.githubusercontent.com/107124225/173158953-ac8dc5df-7546-4d35-8479-83b0b65fae96.png)
 Social Media: 
 (I don't really use social media so...) Discord: Nedhelp#2715
 
