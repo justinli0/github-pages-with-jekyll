@@ -17,9 +17,3 @@ First degree black belt at Taekwondo (6th grade).
 Got past 6th Grade ABRSM on the Saxophone. 
 A 4.0+ GPA. 
 Skipped Geo-Trig over the Summer.
-
-
-git branch -m main <BRANCH>
-git fetch origin
-git branch -u origin/<BRANCH> <BRANCH>
-git remote set-head origin -a
